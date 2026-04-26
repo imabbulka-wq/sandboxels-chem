@@ -1,3 +1,4 @@
+console.log("MOD LOADED");
 elements.my_element = {
     color: "#ff0000",
     behavior: behaviors.POWDER,
