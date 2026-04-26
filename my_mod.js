@@ -1,9 +1,9 @@
-console.log("🔥 MY MOD IS RUNNING 🔥");
-elements.my_element = {
-    color: "#ff0000",
+console.log("MOD LOADED TEST");
+
+elements.test_block = {
+    color: "#00ff00",
     behavior: behaviors.POWDER,
-    category: "powders",
+    category: "test",
     state: "solid",
-    density: 1000,
+    density: 1000
 };
-console.log("ELEMENT REGISTERED");
