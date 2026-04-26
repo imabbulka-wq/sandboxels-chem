@@ -1,3 +1,4 @@
+console.log("🔥 MY MOD IS RUNNING 🔥");
 elements.my_element = {
     color: "#ff0000",
     behavior: behaviors.POWDER,
